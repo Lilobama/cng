@@ -1,3 +1,7 @@
 librosa
 numpy
+
 google.colab
+sklearn.ensemble
+sklearn.preprocessing
+sklearn.model_selection
