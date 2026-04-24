@@ -1,7 +1,14 @@
-librosa
-numpy
 
-google.colab
-sklearn.ensemble
-sklearn.preprocessing
-sklearn.model_selection
+python-telegram-bot>=20.0
+
+librosa>=0.10.0
+soundfile>=0.12.0
+
+numpy>=1.24.0
+pandas>=2.0.0
+
+scikit-learn>=1.3.0
+
+joblib>=1.3.0
+
+nest-asyncio>=1.5.0
